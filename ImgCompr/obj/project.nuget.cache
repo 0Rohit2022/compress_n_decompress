@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nP7gW2vXV/gDWk6RkJ7E4nsSYeFS58iC055+hzJqGvLbXCu7V6qPiLXEZDf0eIaa9WksbKEGe5y/yT16xZP9gQ==",
+  "success": true,
+  "projectFilePath": "C:\\compression_console_application\\ImgCompr\\ImgCompr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RohitKumarR\\.nuget\\packages\\brotlisharplib\\0.3.3\\brotlisharplib.0.3.3.nupkg.sha512",
+    "C:\\Users\\RohitKumarR\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

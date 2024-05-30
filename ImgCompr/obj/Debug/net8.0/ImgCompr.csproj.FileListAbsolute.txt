@@ -1,0 +1,17 @@
+C:\compression_console_application\ImgCompr\bin\Debug\net8.0\ImgCompr.exe
+C:\compression_console_application\ImgCompr\bin\Debug\net8.0\ImgCompr.deps.json
+C:\compression_console_application\ImgCompr\bin\Debug\net8.0\ImgCompr.runtimeconfig.json
+C:\compression_console_application\ImgCompr\bin\Debug\net8.0\ImgCompr.dll
+C:\compression_console_application\ImgCompr\bin\Debug\net8.0\ImgCompr.pdb
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.GeneratedMSBuildEditorConfig.editorconfig
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.AssemblyInfoInputs.cache
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.AssemblyInfo.cs
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.csproj.CoreCompileInputs.cache
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.dll
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\refint\ImgCompr.dll
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.pdb
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.genruntimeconfig.cache
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ref\ImgCompr.dll
+C:\compression_console_application\ImgCompr\bin\Debug\net8.0\BrotliSharpLib.dll
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.csproj.AssemblyReference.cache
+C:\compression_console_application\ImgCompr\obj\Debug\net8.0\ImgCompr.csproj.Up2Date
